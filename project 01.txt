@@ -1,0 +1,26 @@
+1. Input Handling:
+    - Accept two numbers from the user.
+    - Accept an operator (+, -, *, /) from the user.
+
+2. Basic Operations:
+    - Addition: Add the two numbers.
+    - Subtraction: Subtract the second number from the first.
+    - Multiplication: Multiply the two numbers.
+    - Division: Divide the first number by the second (handle division by zero).
+
+3. Display Results:
+    - Show the result of the operation to the user.
+
+4. Error Handling:
+    - Handle invalid inputs (e.g., non-numeric values or unsupported operators).
+    - Handle division by zero gracefully.
+
+5. Loop for Multiple Calculations:
+    - Allow the user to perform multiple calculations without restarting the program.
+    - Provide an option to exit the calculator.
+
+6. Optional Features:
+    - Add support for more operations (e.g., modulus, exponentiation).
+    - Allow input of expressions (e.g., "5 + 3") instead of separate inputs.
+    - Add a clear screen option.
+    - Provide a help menu or instructions for usage.
